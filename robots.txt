@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zakazy-whatsapp-1c.dokufolio.com/sitemap.xml
